@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TlpEJ54FFb/Arx2xr4PDHd19/3JFrfRXaSEvSePBGuWdZlM7XpyBwcwDXJLEgtUCmNSNDP71kz6UCYcN4ltT6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olwethu\\Desktop\\VSV-Projects\\VSV_WebCrawler\\VSV_WebCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olwethu\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

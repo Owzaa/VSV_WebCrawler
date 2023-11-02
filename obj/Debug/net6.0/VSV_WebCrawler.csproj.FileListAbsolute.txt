@@ -1,0 +1,17 @@
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\bin\Debug\net6.0\VSV_WebCrawler.exe
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\bin\Debug\net6.0\VSV_WebCrawler.deps.json
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\bin\Debug\net6.0\VSV_WebCrawler.runtimeconfig.json
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\bin\Debug\net6.0\VSV_WebCrawler.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\bin\Debug\net6.0\VSV_WebCrawler.pdb
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.csproj.AssemblyReference.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.AssemblyInfoInputs.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.AssemblyInfo.cs
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.csproj.CopyComplete
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\refint\VSV_WebCrawler.dll
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.pdb
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\VSV_WebCrawler.genruntimeconfig.cache
+C:\Users\Olwethu\Desktop\VSV-Projects\VSV_WebCrawler\obj\Debug\net6.0\ref\VSV_WebCrawler.dll
